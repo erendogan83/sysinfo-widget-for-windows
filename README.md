@@ -35,7 +35,7 @@ It displays live network and system information in a compact, always-accessible 
 ## Quick Start
 
 ```bash
-git clone https://github.com/erendogan83/sysinfo-widget.git
+git clone https://github.com/erendogan83/sysinfo-widget-for-windows.git
 cd sysinfo-widget
 python widget.py
 ```
